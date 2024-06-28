@@ -2,7 +2,6 @@
 // To run:
 //gcc -o out desserts_database_backend.c database_helper.c hashtable.c
 // ./out
-// git clone
 // access token: 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
 
 #include <stdio.h>
