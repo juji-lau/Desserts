@@ -2,6 +2,7 @@
 // To run:
 //gcc -o out desserts_database_backend.c database_helper.c hashtable.c
 // ./out
+// git clone
 
 #include <stdio.h>
 #include <stdlib.h>
